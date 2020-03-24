@@ -1,5 +1,5 @@
 <section id="section_contact" class="contact">
-    <form id="contact" action="#section_contact" method="post">
+    <form id="contact" action="#section_contact.php" method="post">
         <fieldset>
             <legend>contacter-nous</legend>
             <label for="nom"><span style="color:red">*</span>Nom</label>
