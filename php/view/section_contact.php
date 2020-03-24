@@ -12,7 +12,7 @@
             </div>
             <label for="phone"><span style="color:red">*</span>Telephone</label>
             <div>
-            <input type="phone" name="telephone" id="phone" placeholder="entrer votre telephone" required>
+            <input type="tel" name="telephone" id="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="entrer votre telephone" required>
             </div>
             <label for="message"><span style="color:red">*</span>message</label>
             <div>
