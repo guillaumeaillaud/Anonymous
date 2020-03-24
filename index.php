@@ -1,6 +1,5 @@
 <?php
-echo"cava";
-echo"cava";
-echo"cava";
-echo "les gars tt va bien";
-echo"yep";
+require_once "php/view/header.php";
+require_once "php/view/section_index.php";
+require_once "php/view/footer.php"; 
+?>
