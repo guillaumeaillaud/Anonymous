@@ -1,5 +1,7 @@
 
 
+
+
 </main>
 
 <footer class="page-footer font-small unique-color-dark">
@@ -71,7 +73,8 @@
 </div>
 <!-- Copyright -->
 </footer>
-    
+
+<script src="php/view/assets/js/app.js"></script>
 </body>
 
 </html>
