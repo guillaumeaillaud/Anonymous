@@ -12,8 +12,8 @@
             </div>
             <label for="phone"><span style="color:red">*</span>Telephone</label>
             <div>
-            <input type="tel" name="telephone" id="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="entrer votre telephone" required>
-            <small>Format: 123-456-7890</small>
+            <input type="tel" name="telephone" id="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="entrer votre telephone" required><br>
+            <p>Format: 123-456-7890</p>
             </div>
             <label for="message"><span style="color:red">*</span>message</label>
             <div>
