@@ -21,7 +21,7 @@
             
             <h4> NOS CHOIX </h4>
 
-            <div class="img"><img src="assets/img/image7.jpg" alt="photo"></div>
+            <div class="img"><img src="assets/img/image4.jpg" alt="photo"></div>
 
         </OL>
 
