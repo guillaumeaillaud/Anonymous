@@ -3,7 +3,7 @@
 
             <h3>NOS SERVICES</h3>
 
-            <div class="img"><img src="image3.jpg" alt="photo"></div>
+            <div class="img"><img src="image7.jpg" alt="photo"></div>
 
 
         <OL>
@@ -20,6 +20,9 @@
             <p>Nous vous offrons la possibilite de reserver vos billets d'avions et hotels depuis notre plateforme. nous selectionons,cependant, les meilleurs offres avec des prix defiant toutes concurences</p>
             
             <h4> NOS CHOIX </h4>
+
+            <div class="img"><img src="image6.jpg" alt="photo"></div>
+
         </OL>
 
 
