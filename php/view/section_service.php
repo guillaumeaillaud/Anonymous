@@ -1,11 +1,8 @@
-<section id="section_service" class="service">
-
+<section id="section_service">
+    <img src="assets/img/image3.jpg" alt="photo">
 
     <h3>NOS SERVICES</h3>
-    <div>
-        <img src="image3.jpg" alt="photo">
-        <img src="image7.jpg" alt="photo">
-    </div>
+
 
     <div class="service">
         <OL>
@@ -24,7 +21,6 @@
             <h4> NOS CHOIX </h4>
 
 
-
         </OL>
 
 
@@ -36,6 +32,10 @@
             <li>Une découverte de l’histoire humaine et spirituelle des lieux traversés.</li>
             <li>Des rencontre et de nouvelles connaissance.</li>
         </ul>
+        <div>
 
+            <img src="assets/img/image5.jpg" alt="photo">
+        </div>
     </div>
+
 </section>
