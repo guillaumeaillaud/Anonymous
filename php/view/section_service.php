@@ -3,7 +3,7 @@
 
             <h3>NOS SERVICES</h3>
 
-            <div class="img"><img src="image3.jpeg" alt="photo"></div>
+            <div class="img"><img src="image3.jpg" alt="photo"></div>
 
 
         <OL>
