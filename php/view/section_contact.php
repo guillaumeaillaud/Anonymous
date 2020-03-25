@@ -13,8 +13,8 @@
                 </div>
                 <div class="form-group">
                     <label for="phone">Telephone <span style="color:red">*</span></label>
-                    <input type="tel" class="form-control" name="telephone" id="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="entrer votre telephone" required>
-                    <small>Format: 123-456-7890</small>
+                    <input type="tel" class="form-control" name="telephone" id="phone" pattern="[0-9]{10}" placeholder="entrer votre telephone" required>
+                    <small>Format: 1234567890</small>
                 </div>
                 <div class="form-group">
                     <label for="message">Message <span style="color:red">*</span></label>
