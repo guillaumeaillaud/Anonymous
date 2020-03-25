@@ -1,9 +1,10 @@
 <section  id="section_service" class="service">
    
 
-<h2>NOS SERVICES</h2>
+            <h3>NOS SERVICES</h3>
+            
         <OL>
-            <li>RENSEIGNEMENT ET INFORMATION PARS PAYS DES DESTINATIONS</li>
+            <li>RENSEIGNEMENT ET INFORMATION PAR PAYS DES DESTINATIONS</li>
             <div>culture par pays</div>
             <p> ATA vous renseigne sur les pays où vous souhaitez y aller en vous fournissant toutes les informations vous aimeriez avoir avant votre depart.</p>
             
@@ -17,7 +18,18 @@
             
 
         
+            <h4> NOS CHOIX </h4>
         </OL>
+
+
+        <ul>
+        <li> accompagnement passionné, dynamique & enthousiaste.</li>
+        <li>Des petits groupes de 8 à 25 personnes.</li>
+        <li>Des rencontres avec les populations locales.</li>
+        <li>Des guides expérimentés.</li>
+        <li>Une découverte de l’histoire humaine et spirituelle des lieux traversés.</li>
+        <li>Des rencontre et de nouvelles connaissance.</li>
+    </ul>
 
 
    </section>
