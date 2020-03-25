@@ -10,7 +10,7 @@
 <body> 
 <header>
 <h1>
-        <img src="php/view/assets/img/logo.jpg" alt="logo.png">
+        <img src="assets/img/logo.png" alt="logo.png">
     </h1>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
