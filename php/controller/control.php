@@ -13,5 +13,5 @@ if(isset($_POST["nom"])&&isset($_POST["email"])&&isset($_POST["telephone"])&&iss
 
                 $pdo=dataConnection();
                 $pdo->exec($requeteSql);
-                echo $requeteSql;
+                
 }
