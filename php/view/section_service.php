@@ -3,7 +3,7 @@
 
             <h3>NOS SERVICES</h3>
 
-            <div class="img"><img src="image3.jpg" alt="photo"></div>
+            <div class="img"><img src="assets/img/image3.jpg" alt="photo"></div>
     
 
         <OL>
@@ -21,7 +21,7 @@
             
             <h4> NOS CHOIX </h4>
 
-            <div class="img"><img src="image7.jpg" alt="photo"></div>
+            <div class="img"><img src="assets/img/image7.jpg" alt="photo"></div>
 
         </OL>
 
