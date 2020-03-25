@@ -14,7 +14,7 @@
                 <div class="form-group">
                     <label for="phone">Telephone <span style="color:red">*</span></label>
                     <input type="tel" class="form-control" name="telephone" id="phone" pattern="[0-9]{10}" placeholder="entrer votre telephone" required>
-                    <small>Format: 1234567890</small>
+                    <small>Format: 1234567890 <span style="color:red;">(10 chiffres *)</span></small>
                 </div>
                 <div class="form-group">
                     <label for="message">Message <span style="color:red">*</span></label>
