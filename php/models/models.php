@@ -13,3 +13,4 @@ function dataConnection()
         echo "erreur connection" . $erreur->getMessage();
     }
 }
+
