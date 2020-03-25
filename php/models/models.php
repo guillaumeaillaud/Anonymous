@@ -12,5 +12,6 @@ function dataConnection()
     } catch (PDOException $erreur) {
         echo "erreur connection" . $erreur->getMessage();
     }
+    return $bdd;
 }
 
