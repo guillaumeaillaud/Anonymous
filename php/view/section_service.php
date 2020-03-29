@@ -28,7 +28,7 @@
 
 <section class="image" >
     
-        <img src="assets/img/image3.jpg" alt="photo">
-        <img src="assets/img/image5.jpg" alt="photo">
+       <div class="image1"><img class="image2" src="assets/img/image3.jpg" alt="photo"></div> 
+        <div class="image1"><img class="image2" src="assets/img/image5.jpg" alt="photo"></div>
 
 </section>
