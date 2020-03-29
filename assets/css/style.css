@@ -51,4 +51,6 @@ body{
         margin: auto; 
         
     }
-
+.form-control{
+        width: 1550px;
+    }
