@@ -36,10 +36,6 @@ body{
     flex-direction: column;
   
 }
-
-
-      
-        
     
 .form-control{
         width: 1550px;
@@ -51,9 +47,11 @@ body{
     }
 
     .image2{
-
+        margin-right:2px;
+        margin-left:2px;
         max-width: 100%;
-        width: 800px;
+        width: 790px;
         height: 400px;
         object-fit: cover;
+        
     }
