@@ -1,6 +1,15 @@
 <section id="section_contact" class="contact">
+<<<<<<< HEAD
     <h2>Contactez-nous</h2>
     <div class="container-fluid">
+=======
+    <h2>contactez-nous</h2>
+<br>
+
+  <strong> <div  class="sousT">Veuillez remplir ce formulaire</div></strong><br>
+       
+   <div class="container-fluid">
+>>>>>>> 
         <div class="row">
             <form class="form" action="#section_contact.php" method="post">
                 <div class="form-group">
