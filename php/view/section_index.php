@@ -1,7 +1,7 @@
 <section id="section_index" class="index">
-    <h1>ACCEUIL</h1>
+    <h2>ACCEUIL</h2>
 
-    <h2>Presentation de la société ATA</h2>
+   <strong> <div class="sousT">Presentation de la société ATA</div></strong>
     <br>
     <p>Note compagnie Anonymous Travel Agency est spécialisée dans les voyages de tout horizons depuis plusieurs décénnies. L’aventure commence en 1994... Ange, Zakaria, Sadadine et Guillaume entreprenent alors un voyage de plusieurs mois en Asie en quête de sens, qui vont les conduire au Bangladesh, en Thaïlande, en Malaisie,au Vietnam, en Indonésie et à Calcutta chez Mère Teresa.Véritable itinéraire initiatique, parsemé de nombreuses découvertes humaines et spirituelles, ce voyage va alors forger en eux l’idée forte de proposer des voyages "autrement", qui privilégient l’expérience spirituelle et la richesse des rencontres. L’aventure Anonymous Travel Agency est en germe...</p>
 
