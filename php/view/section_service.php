@@ -8,19 +8,11 @@
         
         <ul>
 
-           <strong> <div>Culture par pays:</div></strong>
-            <li> ATA vous renseigne sur les pays où vous souhaitez y aller en vous fournissant toutes les informations vous aimeriez avoir avant votre depart.</li><br>
-
-            <strong><div>ACccompagnement individuel par voyage et service après vente:</div></strong>
-            <li>ATA organise votre voyage de A à Z , il vous suffit de nous confier votre projet de voyage et nous nous en chargerons du restes </li><br>
-
-           <strong> <div>Réservez votre hotel:</div></strong>
-            <li>Nous vous offrons la possibilite de reserver vos billets d'avions et hotels depuis notre plateforme. nous selectionons,cependant, les meilleurs offres avec des prix defiant toutes concurences</li>
-
-        </ul>
-
-        <strong><div class="sousT"> NOS CHOIX </div><br></strong>
-
+            <li>RESERVATION DES BILLETS D'AVION ET D'HOTELS </li>
+            <div>RESERVEZ VOS BILLETS ET VOTRE HOTEL</div>
+            <p>Nous vous offrons la possibilite de reserver vos billets d'avions et hotels depuis notre plateforme. nous selectionons,cependant, les meilleurs offres avec des prix defiant toutes concurences</p>
+            <h4> NOS CHOIX </h4>
+        </OL>
         <ul>
             <li> accompagnement passionné, dynamique & enthousiaste.</li>
             <li>Des petits groupes de 8 à 25 personnes.</li>
