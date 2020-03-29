@@ -44,7 +44,10 @@ body{
   
 }
 
-.paragraphe{
+.logo
+    {
+        width: 700px; 
+        margin: auto; 
+        
+    }
 
-    border: 4ps solid yellow;
-}

@@ -3,7 +3,7 @@
     <h2>Contactez-nous</h2>
     <div class="container-fluid">
 
-  <strong> <div  class="sousT">Veuillez remplir ce formulaire</div></strong><br>
+  <strong> <div  class="sousT">Veuillez remplir ce formulaire</div></strong><br><br><br>
        
    <div class="container-fluid">
 
