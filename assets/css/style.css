@@ -43,3 +43,6 @@ body{
     flex-direction: column;
   
 }
+.form-control{
+    width: 1550px;
+}
