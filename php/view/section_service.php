@@ -17,13 +17,8 @@
             <li>RESERVATION DES BILLETS D'AVION ET D'HOTELS </li>
             <div>RESERVEZ VOS BILLETS ET VOTRE HOTEL</div>
             <p>Nous vous offrons la possibilite de reserver vos billets d'avions et hotels depuis notre plateforme. nous selectionons,cependant, les meilleurs offres avec des prix defiant toutes concurences</p>
-
             <h4> NOS CHOIX </h4>
-
-
         </OL>
-
-
         <ul>
             <li> accompagnement passionné, dynamique & enthousiaste.</li>
             <li>Des petits groupes de 8 à 25 personnes.</li>

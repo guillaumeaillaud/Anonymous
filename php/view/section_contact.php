@@ -1,5 +1,5 @@
 <section id="section_contact" class="contact">
-    <h2>contactez-nous</h2>
+    <h2>Contactez-nous</h2>
     <div class="container-fluid">
         <div class="row">
             <form class="form" action="#section_contact.php" method="post">
