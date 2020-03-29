@@ -43,3 +43,8 @@ body{
     flex-direction: column;
   
 }
+
+.paragraphe{
+
+    border: 4ps solid yellow;
+}
