@@ -28,18 +28,6 @@
             <div class="img"><img src="image7.jpg" alt="photo"></div>
 
         </OL>
-<<<<<<< HEAD
-=======
-        <ul>
-
-            <li> accompagnement passionné, dynamique & enthousiaste.</li>
-            <li>Des petits groupes de 8 à 25 personnes.</li>
-            <li>Des rencontres avec les populations locales.</li>
-            <li>Des guides expérimentés.</li>
-            <li>Une découverte de l’histoire humaine et spirituelle des lieux traversés.</li>
-            <li>Des rencontre et de nouvelles connaissance.</li>
-        </ul>
->>>>>>> 4c0b772d07f65407ec3b5366609f634898bdd8ca
 
 
         <ul>
