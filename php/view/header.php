@@ -26,9 +26,10 @@
 </head>
 <body> 
 <header>
-<h1>
+<div class="logo">
         <img src="assets/img/logo.png" alt="logo.png">
-    </h1>
+        <img src="assets/img/corona.gif" alt="corona.gif">
+        </div>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 

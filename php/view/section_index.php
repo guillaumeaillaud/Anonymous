@@ -7,7 +7,6 @@
 </section>
 
 <section id="section_index" class="index">
-    
 
     <h2>Presentation de la société ATA</h2>
     <br>
