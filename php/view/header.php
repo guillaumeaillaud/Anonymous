@@ -26,22 +26,12 @@
 </head>
 <body> 
 <header>
-<h1>
+<div class="logo">
         <img src="assets/img/logo.png" alt="logo.png">
-    </h1>
-
-<<<<<<< HEAD
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-=======
-<body>
-    <header>
-        <div class="logo">
-            <img src="assets/img/logo.png" alt="logo.png">
-            <img src="assets/img/corona.gif" alt="corona.gif" id="corona">
+        <img src="assets/img/corona.gif" alt="corona.gif">
         </div>
 
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
->>>>>>> 4c0b772d07f65407ec3b5366609f634898bdd8ca
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 
 <div class="collapse navbar-collapse" id="navbarColor02">
     <ul class="navbar-nav mr-auto">
