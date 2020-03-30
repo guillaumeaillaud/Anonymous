@@ -1,7 +1,7 @@
 <section id="section_service">
 
 
-    <h2>NOS SERVICES</h2><br>
+    <h2>NOS SERVICES</h2> <br>
 
     <strong><div class="sousT">RENSEIGNEMENT ET INFORMATION PAR PAYS DE DESTINATION</div><br></strong>
     <div class="paragraphe">
@@ -14,7 +14,7 @@
             <h4> NOS CHOIX </h4>
         </OL>
         <ul>
-            
+
             <li> accompagnement passionné, dynamique & enthousiaste.</li>
             <li>Des petits groupes de 8 à 25 personnes.</li>
             <li>Des rencontres avec les populations locales.</li>
