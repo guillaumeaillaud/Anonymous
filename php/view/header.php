@@ -30,17 +30,7 @@
         <img src="assets/img/logo.png" alt="logo.png">
     </h1>
 
-<<<<<<< HEAD
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-=======
-<body>
-    <header>
-        <div class="logo">
-            <img src="assets/img/logo.png" alt="logo.png">
-        </div>
-
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
->>>>>>> 4c0b772d07f65407ec3b5366609f634898bdd8ca
 
 <div class="collapse navbar-collapse" id="navbarColor02">
     <ul class="navbar-nav mr-auto">
