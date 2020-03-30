@@ -35,10 +35,11 @@ body {
 }
 
 .form-control {
-    width: 1300px;
+    width: 1580px;
 }
 
 .image {
+    padding-top: 30px;
     display: flex;
     justify-content: space-between;
 }
