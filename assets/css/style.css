@@ -1,6 +1,8 @@
-.logo img {
+.logo img{
+
     justify-content: space-between;
     margin-right: 350px;
+    position: none;
 }
 
 

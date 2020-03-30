@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,7 +24,15 @@
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
 </head>
+<body> 
+<header>
+<h1>
+        <img src="assets/img/logo.png" alt="logo.png">
+    </h1>
 
+<<<<<<< HEAD
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+=======
 <body>
     <header>
         <div class="logo">
@@ -34,23 +41,23 @@
         </div>
 
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+>>>>>>> 4c0b772d07f65407ec3b5366609f634898bdd8ca
 
-            <div class="collapse navbar-collapse" id="navbarColor02">
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="#section_index">Accueil <span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#section_service">Service</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#section_contact">Contact</a>
-                    </li>
-                </ul>
+<div class="collapse navbar-collapse" id="navbarColor02">
+    <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+            <a class="nav-link" href="#section_index">Accueil <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#section_service">Service</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#section_contact">Contact</a>
+        </li>
+    </ul>
 
-            </div>
-        </nav>
-        <br>
+</div>
+</nav>
 
-    </header>
-    <main>
+</header>
+<main>
