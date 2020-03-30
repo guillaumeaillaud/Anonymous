@@ -30,6 +30,7 @@
     <header>
         <div class="logo">
             <img src="assets/img/logo.png" alt="logo.png">
+            <img src="assets/img/corona.gif" alt="corona.gif" id="corona">
         </div>
 
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">

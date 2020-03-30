@@ -1,57 +1,67 @@
-
-
-
-h2{
-    text-align: center;
-    font-size: 60px;
-  text-shadow: -1px -1px #9df, 1px 1px #49d, -3px 0 4px #000;
-  font-family:"Segoe print", Arial, Helvetica, sans-serif;
-  color: black;
-  padding:14px 12px 12px 12px;
-  font-weight:lighter;
-  -moz-box-shadow: 2px 2px 6px #888;  
-  -webkit-box-shadow: 2px 2px 6px #888;  
-  box-shadow:red;  
-  text-align:center;
-  line-height:150px;
+.logo img {
+    justify-content: space-between;
+    margin-right: 350px;
 }
 
-.sousT{
+
+.navbar-nav a {
+    margin-right: 250px;
+    margin-left: 150px;
+    text-align: center;
+    
+}
+
+h2 {
+    text-align: center;
+    font-size: 60px;
+    text-shadow: -1px -1px #9df, 1px 1px #49d, -3px 0 4px #000;
+    font-family: "Segoe print", Arial, Helvetica, sans-serif;
+    color: black;
+    padding: 14px 12px 12px 12px;
+    font-weight: lighter;
+    -moz-box-shadow: 2px 2px 6px #888;
+    -webkit-box-shadow: 2px 2px 6px #888;
+    box-shadow: red;
+    text-align: center;
+    line-height: 150px;
+}
+
+.sousT {
     background-color: gray;
     border: 2px solid gray;
     border-radius: 6px;
     box-shadow: 6px 6px 0px black;
     text-align: center;
-  
+
 }
 
-body{
-    font-family:"Segoe print", Arial, Helvetica, sans-serif;
+body {
+    font-family: "Segoe print", Arial, Helvetica, sans-serif;
     background-color: turquoise;
 }
 
-.container-fluid{
+.container-fluid {
 
     display: flex;
     flex-direction: column;
-  
+
 }
-    
-.form-control{
-        width: 1550px;
-    }
 
-    .image{
-        display: flex;
-        justify-content: space-between;
-    }
+.form-control {
+    width: 1550px;
+}
 
-    .image2{
-        margin-right:2px;
-        margin-left:2px;
-        max-width: 100%;
-        width: 790px;
-        height: 400px;
-        object-fit: cover;
-        
-    }
+.image {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image2 {
+    margin-right: 2px;
+    margin-left: 2px;
+    max-width: 100%;
+    width: 790px;
+    height: 400px;
+    object-fit: cover;
+
+}

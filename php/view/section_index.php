@@ -1,5 +1,5 @@
 <section id="section_index" class="index">
-    <h2>ACCEUIL</h2>
+    
 
    <strong> <div class="sousT">Presentation de la société ATA</div></strong>
     <br>
