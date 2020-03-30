@@ -1,7 +1,8 @@
 <section  id="section_service" class="service">
    
 
-            <h3>NOS SERVICES</h3>
+            <h3>NOS SERVICES
+</h3>
 
             <div class="img"><img src="image3.jpg" alt="photo"></div>
     
