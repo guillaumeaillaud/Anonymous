@@ -1,9 +1,12 @@
+
+<section class="image" >
+
+<div class="image1"><img class="image2" src="assets/img/image3.jpg" alt="photo"></div> 
+ <div class="image1"><img class="image2" src="assets/img/image5.jpg" alt="photo"></div>
+ 
+</section>
+
 <section id="section_index" class="index">
-<<<<<<< HEAD
-    
-=======
-    <h1>ACCEUIL</h1>
->>>>>>> c3c86b6bb6bcd0fc62692d675c78dd2ad2e3cf04
 
     <h2>Presentation de la société ATA</h2>
     <br>
