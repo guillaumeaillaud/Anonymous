@@ -6,12 +6,22 @@
     <strong><div class="sousT">RENSEIGNEMENT ET INFORMATION PAR PAYS DE DESTINATION</div><br></strong>
     <div class="paragraphe">
 
+    <h3>NOS SERVICES</h3>
+
         <ul>
             <li>RESERVATION DES BILLETS D'AVION ET D'HOTELS </li>
-            <div>RESERVEZ VOS BILLETS ET VOTRE HOTEL</div>
-            <p>Nous vous offrons la possibilite de reserver vos billets d'avions et hotels depuis notre plateforme. nous selectionons,cependant, les meilleurs offres avec des prix defiant toutes concurences</p>
-            <h4> NOS CHOIX </h4>
-        </OL>
+            <li>RENSEIGNEMENT SUR LES COMPAGNIES AERIENNES</li>
+            <li>RAPPORT SUR L'ETAT DE SECURITE DU PAYS D'ACCUIEL</li>
+            <li>ACCOMPAGNEMENT ADMINISTRATIF-SERVICE VISA </li>
+            <li>SERVICE AIDE À LA PERSONNE </li>
+
+
+            <p> Nous sommes aussi disponible à repondre à toutes vos preoccupation.</p>  
+            <p> Avec nous,votre satisfaction est assurée.</p>
+</ul>
+            
+            <h4> NOS OFFRES </h4>
+        
         <ul>
             <li> accompagnement passionné, dynamique & enthousiaste.</li>
             <li>Des petits groupes de 8 à 25 personnes.</li>
