@@ -77,8 +77,13 @@
 <script src="assets/js/app.js"></script>
 <script src="assets/js/imagesloaded.pkgd.min.js"></script>
 <script src="assets/js/hammer.min.js"></script>
-<script src="assets/js/sequence.min.js"></script>
+<script src="assets/js/sequence.js"></script>
+<!--<script src="assets/js/sequence.min.js"></script> -->
+ <script src="assets/js/respond.min.js"></script>
+ <script src="assets/js/sequence.min.map"></script> 
 <script src="assets/js/sequence-theme.modern-slide-in.js"></script>
+<script src="assets/js/sequence-theme.modern-slide-in.min.js"></script>
+
 </body>
 
 </html>

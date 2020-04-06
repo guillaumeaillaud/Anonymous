@@ -22,9 +22,10 @@
 var sequenceElement = document.getElementById("sequence");
 
 // Place your Sequence options here to override defaults
-// See: http://sequencejs.com/documentation/#options
+// See: http:/sequencejs.com/documentation/#options
+
 var options = {
-  animateCanvas: false,
+  animateCanvas: true,
   phaseThreshold: false,
   preloader: true,
   reverseWhenNavigatingBackwards: true

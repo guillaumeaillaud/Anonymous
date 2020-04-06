@@ -27,10 +27,15 @@
 </head>
 <body> 
 <header>
+  <div class="entete">
 <div class="logo">
-        <img src="assets/img/logo.png" alt="logo.png">
-        <img src="assets/img/corona.gif" alt="corona.gif">
+        <img src="assets/img/logo.png" alt="logo.png" id="imglogo">
         </div>
+<div class="corona">
+<img src="assets/img/corona.gif" alt="corona.gif">
+</div>
+
+</div> 
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 
