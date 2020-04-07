@@ -39,6 +39,7 @@
 </section>
 <strong>
     <div class="sousT"> AVEC NOUS VOTRE SATISFATCTION EST ASSUREE</div>
+    
 </strong>
 <section class="image">
 
