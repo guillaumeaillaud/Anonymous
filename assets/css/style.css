@@ -79,3 +79,13 @@ body {
     object-fit: cover;
 
 }
+
+.paragraphe {
+
+    display: flex;
+    font-family: system-ui;
+}
+
+.index {
+    font-family: system-ui;
+}
