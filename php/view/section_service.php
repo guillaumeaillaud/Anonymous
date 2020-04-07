@@ -1,13 +1,13 @@
 <section id="section_service">
 
 
-    <h2>NOS OFFRES ET SERVICES</h2><br>
+    <h2>Nos offres et nos services</h2><br>
     <strong>
         <div class="sousT">RENSEIGNEMENT ET INFORMATION PAR PAYS DE DESTINATION</div><br>
     </strong>
     <div class="paragraphe">
         <div class="paragraphe1">
-            <h3>NOS SERVICES</h3>
+            <h3>Nos services</h3>
 
             <ul>
                 <li>Réservation de billets d'avion et d'hotel </li>
@@ -20,7 +20,7 @@
             </ul>
         </div>
         <div class="paragraphe2">
-            <h3> NOS OFFRES </h3>
+            <h3> Nos offres </h3>
 
             <ul>
                 <li>Accompagnement passionné, dynamique & enthousiaste.</li>
@@ -33,7 +33,7 @@
         </div>
     </div>
 </section>
-<strong><div class="sousT"> AVEC NOUS VOTRE SATISFATCTION EST ASSUREE</div></strong>
+<strong><div class="sousT"> AVEC NOUS VOTRE SATISFACTION EST ASSUREE</div></strong>
 <section class="image">
 
     <div class="image1"><img class="image2" src="assets/img/image3.jpg" alt="photo"></div>
