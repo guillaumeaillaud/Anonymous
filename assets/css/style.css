@@ -97,3 +97,16 @@ body {
 .paragraphe1{
     text-align: left;
 }
+
+.image1 {
+    padding: 0.8rem;
+}
+
+.paragraphe {
+    display: flex;
+    width: 100%;
+    font-family: system-ui;
+}
+.paragraphe > * {
+    width: calc(100% /2);
+}
