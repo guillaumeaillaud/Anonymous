@@ -11,7 +11,7 @@ if(isset($_POST["nom"])&&isset($_POST["email"])&&isset($_POST["telephone"])&&iss
 ];
 // (extract)raccourci pour creer des variables a partir de notre tableau assossiatif
 extract($tabDonnees);
-// debug on affiche un message pour l'utilisateur 
+// debug on affiche un message pour l'utilisateur avec son nom
 echo "<h4>merci pour votre message <span style=color:blue;>$nom</span> </h4>";
     
 // la requete sql creat et on a met des tokens(:) pour eviter les injections sql
