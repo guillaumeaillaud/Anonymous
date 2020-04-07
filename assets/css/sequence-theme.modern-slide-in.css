@@ -260,6 +260,7 @@ html,
 .seq .seq-in .seq-title h2,
 .seq .seq-in .seq-title h3 {
   opacity: 1;
+  background: transparent;
   -webkit-transform: translate3d(0, 0, 0);
   -ms-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
@@ -370,7 +371,6 @@ html,
     padding: .2em .6em;
     font-family: 'Oxygen', sans-serif;
     color: white;
-    background:transparent;
     -webkit-transform: translate3d(-120px, 0, 0);
     -ms-transform: translate3d(-120px, 0, 0);
     transform: translate3d(-120px, 0, 0);
