@@ -1,4 +1,5 @@
 <?php
+// fonction pour se connecter a notre base de données avec php (serveur)
 function dataConnection()
 {
     try {
