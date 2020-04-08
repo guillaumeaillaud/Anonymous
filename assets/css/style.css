@@ -113,10 +113,10 @@ body {
 .index {
     background-color: gray;
     border: 2px solid gray;
-    border-radius: 6px;
+    border-radius: 7px;
 
 
-    
+
     box-shadow: 6px 6px 0px black;
     font-family: system-ui;
     text-align: center;
