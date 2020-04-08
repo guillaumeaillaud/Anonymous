@@ -1,7 +1,7 @@
 <section id="section_service">
 
 
-    <h2>NOS OFFRES ET SERVICES</h2><br>
+    <h2>Nos Offres et nos Services</h2><br>
     <strong>
         <div class="sousT">RENSEIGNEMENT ET INFORMATION PAR PAYS DE DESTINATION</div><br>
     </strong>
