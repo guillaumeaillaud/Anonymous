@@ -49,7 +49,7 @@ h2 {
 
 body {
     font-family: "Segoe print", Arial, Helvetica, sans-serif;
-    background-color: turquoise;
+    background-color: rgb(160, 218, 212);
 }
 
 .container-fluid {
@@ -81,11 +81,32 @@ body {
 }
 
 .paragraphe {
-
+    
     display: flex;
     font-family: system-ui;
 }
 
 .index {
     font-family: system-ui;
+}
+
+.paragraphe1{
+    text-align: right;
+}
+
+.paragraphe1{
+    text-align: left;
+}
+
+.image1 {
+    padding: 0.8rem;
+}
+
+.paragraphe {
+    display: flex;
+    width: 100%;
+    font-family: system-ui;
+}
+.paragraphe > * {
+    width: calc(100% /2);
 }
