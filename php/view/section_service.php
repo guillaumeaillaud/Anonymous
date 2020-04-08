@@ -1,16 +1,16 @@
 <section id="section_service">
 
 
-    <h2>Nos Offres et nos Services</h2><br>
+    <h2>Nos Offres et Nos Services</h2><br>
     <strong>
-        <div class="sousT">RENSEIGNEMENT ET INFORMATION PAR PAYS DE DESTINATION</div><br>
+        <div class="sousTitre">Renseignement Et Information Par Pays De Destination</div><br>
     </strong>
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-6">            
                 <h3 class="h3">NOS SERVICES</h3>
                 <img class="rounded float-left" src="image10.jpg" alt="photo">
-            <ul class="liste li1">
+            <ul class="liste">
                 <li>Réservation de billets d'avion et d'hotel </li>
                 <li>Renseignement sur les compagnies aériennes</li>
                 <li>Rapport sur l'état de sécurité du pays d'acceuil</li>
@@ -22,7 +22,7 @@
             <div class="col-md-6"> 
                 <h3 class="h3"> NOS OFFRES </h3>
                 <img class="rounded float-rigth" src="image11.jpg" alt="photo">
-            <ul class="liste li2">
+            <ul class="liste">
                 <li>Accompagnement passionné, dynamique & enthousiaste.</li>
                 <li>Des petits groupes de 8 à 25 personnes.</li>
                 <li>Des rencontres avec les populations locales.</li>
@@ -36,7 +36,7 @@
     </div>
 </section>
 <strong>
-    <div class="sousT"> AVEC NOUS VOTRE SATISFATCTION EST ASSUREE</div>
+    <div class="sousTitre s1"> AVEC NOUS VOTRE SATISFATCTION EST ASSUREE</div>
     
 </strong>
 <section class="image">

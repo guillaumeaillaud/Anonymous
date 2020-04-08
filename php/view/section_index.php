@@ -51,13 +51,10 @@
     </ul>
   </div>
 </section>
-<h2>Presentation de la société ATA</h2>
+<h2>Presentation de la Société ATA</h2>
 <section id="section_index" class="index">
 
-  <br>
-  <br>
-  <p>Note compagnie Anonymous Travel Agency est spécialisée dans les voyages de tout horizons depuis plusieurs décénnies. L’aventure commence en 1994... Ange, Zakaria, Sadadine et Guillaume entreprenent alors un voyage de plusieurs mois en Asie en quête de sens, qui vont les conduire au Bangladesh, en Thaïlande, en Malaisie,au Vietnam, en Indonésie et à Calcutta chez Mère Teresa.Véritable itinéraire initiatique, parsemé de nombreuses découvertes humaines et spirituelles, ce voyage va alors forger en eux l’idée forte de proposer des voyages "autrement", qui privilégient l’expérience spirituelle et la richesse des rencontres. L’aventure Anonymous Travel Agency est en germe...</p>
-
+  <p>Note compagnie Anonymous Travel Agency est spécialisée dans les voyages de tout horizons depuis plusieurs décénnies. L’aventure commence en 1994... <span class="badge badge-light">Ange </span> <span class="badge badge-light"> Zakaria</span> <span class="badge badge-light">Sadadine</span> et <span class="badge badge-light"> Guillaume</span> entreprenent alors un voyage de plusieurs mois en Asie en quête de sens, qui vont les conduire au Bangladesh, en Thaïlande, en Malaisie,au Vietnam, en Indonésie et à Calcutta chez Mère Teresa.Véritable itinéraire initiatique, parsemé de nombreuses découvertes humaines et spirituelles, ce voyage va alors forger en eux l’idée forte de proposer des voyages "autrement", qui privilégient l’expérience spirituelle et la richesse des rencontres. L’aventure Anonymous Travel Agency est en germe...</p>
   <p> Fondée en 1998, Anonymous Travel Agency est aujourd’hui une agence à forte notoriété dans la création de voyages à thème. C’est une équipe de professionnels du tourisme qui mettent tout leur enthousiasme à vous proposer des itinéraires de qualité, des circuits riches d’histoire, de rencontres, de découvertes, de sens et de spiritualité. </p>
   <p>ATA a mis en place depuis plusieurs années un réseau de conférenciers et correspondants dans chacun des pays qui vous sont proposés, choisis pour leur dynamisme, leur passion et leur rigueur. Ce sont de véritables relations de confiance et de partenariat qui existent aujourd’hui avec chacun d’entre eux, gage de voyages réussis et sécurisés. C’est aussi tout un réseau d’hommes et de femmes, riches d’expériences et de connaissances qui assurent pour vous l’accompagnement de tous ces voyages. Guides ou accompagnateurs, ils sont passionnés. Ils sont universitaires, journalistes, professeurs, musiciens, biblistes etc</p>
   <p>Vous nous connaissez désormais un peu mieux… Il ne vous reste plus qu’à tenter l’aventure...</p>
