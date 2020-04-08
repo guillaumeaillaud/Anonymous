@@ -9,8 +9,10 @@
         <div class="paragraphe1">
             <div>
                 <h3>NOS SERVICES</h3>
-            </div>
+                <div class="image10"><img class="image2" src="image10.jpg" alt="photo"></div>
+        <div>
 
+    
             <ul>
                 <li>Réservation de billets d'avion et d'hotel </li>
                 <li>Renseignement sur les compagnies aériennes</li>
@@ -24,6 +26,7 @@
         <div class="paragraphe2">
             <div>
                 <h3> NOS OFFRES </h3>
+                <div class="image11"><img class="image11" src="image11.jpg" alt="photo"></div>
             </div>
 
             <ul>
