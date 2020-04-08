@@ -9,7 +9,8 @@
         <div class="paragraphe1">
             <div>
                 <h3>NOS SERVICES</h3>
-                <div class="image10"><img class="image2" src="image10.jpg" alt="photo"></div>
+                <div class="image10"><img class="image11" src="image10.jpg" alt="photo"></div>
+            </div>
         <div>
 
     
