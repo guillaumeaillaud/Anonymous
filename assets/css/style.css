@@ -65,7 +65,16 @@ h2 {
 .image1 {
     padding: 0.8rem;
 }
+/* footer */
+.page-footer{
+    background-color: #343a40;
+    color:#fff;
+}
+.text-uppercase {
+    padding-top:40px;
+}
 /* section index */
+
 .index {
     padding: 2px;
     background-color: #e2e4f4;
