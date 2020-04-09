@@ -7,7 +7,7 @@
     </strong>
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-6">            
+            <div class="col-lg-6 col-md-6">            
                 <h3 class="h3">NOS SERVICES</h3>
                 <img class="rounded float-left" src="image10.jpg" alt="photo">
             <ul class="liste">
@@ -19,7 +19,7 @@
                 <li>Nous sommes aussi disponible à repondre à toutes vos preoccupation.</li>
             </ul>
          </div>
-            <div class="col-md-6"> 
+            <div class="col-lg-6 col-md-6"> 
                 <h3 class="h3"> NOS OFFRES </h3>
                 <img class="rounded float-rigth" src="image11.jpg" alt="photo">
             <ul class="liste">
