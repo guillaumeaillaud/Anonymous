@@ -21,7 +21,7 @@
           </div>
 
           <div class="seq-title">
-            <h2 data-seq>Decouvrez de nouveaux horizons</h2>
+            <h2 data-seq style="color:black;">Decouvrez de nouveaux horizons</h2>
             <h3 data-seq> <br /></h3>
           </div>
         </li>
@@ -32,7 +32,7 @@
           </div>
 
           <div class="seq-title">
-            <h2 data-seq>Voyagez avec Annonymous Agency</h2>
+            <h2 data-seq >Voyagez avec Annonymous Agency</h2>
             <h3 data-seq></h3>
           </div>
         </li>
