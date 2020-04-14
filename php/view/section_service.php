@@ -14,8 +14,8 @@
                     <li>Réservation de billets d'avion et d'hotel </li>
                     <li>Renseignement sur les compagnies aériennes</li>
                     <li>Rapport sur l'état de sécurité du pays d'acceuil</li>
-                    <li>Accompagnement admninistratif-Services-Visa </li>
-                    <li>Service d'aide à la personne</li>
+                    <li>Accompagnement admninistratif-Services-Visa.</li>
+                    <li>Service d'aide à la personne.</li>
                     <li>Nous sommes aussi disponible à repondre à toutes vos preoccupation.</li>
                 </ul>
             </div>
