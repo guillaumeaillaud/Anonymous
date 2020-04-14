@@ -26,7 +26,7 @@
         </div>
     </div>
     <div>
-<?php require_once "php/controller/control.php";?>
-</div>
+        <?php require_once "php/controller/control.php"; ?>
+    </div>
     </form>
 </section>
