@@ -32,7 +32,7 @@
           </div>
 
           <div class="seq-title">
-            <h2 data-seq >Voyagez avec Annonymous Agency</h2>
+            <h2 data-seq>Voyagez avec Annonymous Agency</h2>
             <h3 data-seq></h3>
           </div>
         </li>
@@ -61,6 +61,6 @@
   <p>« Celui qui a beaucoup voyagé a beaucoup appris, plus qu’il ne saurait en dire ».</p>
   <p>Nous croyons que cette ouverture d’esprit que suscite le Voyage, que l’aventure humaine à laquelle il invite, que la beauté des lieux, sont un chemin d’élévation spirituelle. Partir de chez soi, quitter ses habitudes, ses certitudes, son ego, se mettre en route, découvrir l’Homme dans sa différence et son universalité, admirer la beauté de la création, vivre des temps festifs et chaleureux, C’est sur ce merveilleux chemin qu’Ictus Voyages vous invite.</p>
   <p>Voyagez autrement !</p>
-  
 
-  </section>
+
+</section>

@@ -24,8 +24,9 @@
                     <button class="btn btn-outline-dark" type="submit">envoyer</button>
                 </div>
         </div>
+    </div>
     <div>
-<?php require_once "php/controller/control.php";?>
-</div>
+        <?php require_once "php/controller/control.php"; ?>
+    </div>
     </form>
 </section>
